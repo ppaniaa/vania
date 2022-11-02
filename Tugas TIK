@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 
 <head>
-    <title>Luas Lapangan Segitiga Sama Kaki</title>
+    <title>Luas Segitiga Sama Kaki</title>
 </head>
 <body>
     <b>Tinggi Segitiga =</b> <input type="text" id="angka1"><br>
